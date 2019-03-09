@@ -33,7 +33,7 @@ The new quizzes are added to Google Drive of the account that is initially logge
 In order to create a question, the user ( probably the teacher) has to insert the POIs of all four locations. This is because all answers are locations, and wrong answers are also needed to be known by the students. When the green tick button in the lower right corner of the screen is clicked, the next empty question page shows up.
 
 ### During Quiz:
-A progresss bar shows how long the quiz will be. In every question there are four choices and each choice has their POIs. When the user answers a question wrong, the correct POI is displayed after the wrong POI. Also, a piece of information about the answer POI is displayed.
+A progress bar shows how long the quiz will be. In every question there are four choices and each choice has their POIs. When the user answers a question wrong, the correct POI is displayed after the wrong POI. Also, a piece of information about the answer POI is displayed.
 
 ### After Quiz: 
 The success rate is shown and the user can look back at the answers or play another game.
